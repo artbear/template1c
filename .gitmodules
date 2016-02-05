@@ -1,0 +1,3 @@
+[submodule "pumbaEO"]
+	path = pumbaEO
+	url = https://github.com/pumbaEO/template1c.git
